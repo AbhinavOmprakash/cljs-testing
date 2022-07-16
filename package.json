@@ -1,0 +1,19 @@
+{
+  "name": "cljs-testing-with-lein",
+  "version": "1.0.0",
+  "description": "A Clojure library designed to ... well, that part is up to you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "shadow-cljs compile test && karma start --single-run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^6.4.0",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-cljs-test": "^0.1.0",
+    "shadow-cljs": "^2.19.6"
+  }
+}
+
