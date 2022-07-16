@@ -1,10 +1,8 @@
 # cljs-testing-with-lein
 
-A Clojure library designed to ... well, that part is up to you.
+A sample project to show how to setup clojurescript testing.
 
-## Usage
-
-FIXME
+companion [blog-post](https://www.abhinavomprakash.com/posts/running-cljs-tests/)
 
 ## License
 
